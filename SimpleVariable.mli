@@ -1,0 +1,1 @@
+module Variable : Signatures.VARIABLE
